@@ -1,4 +1,4 @@
-#include <List>
+
 #include <QCoreApplication>
 #include <QFile>
 #include <QList>
